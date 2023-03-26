@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Shahzaib Khalid
 - 👀 I’m interested in Remote Jobs or Projects
-- 🌱 I’m currently learning Google Flutter
-- 💞️ I’m looking to collaborate on Projects on HTML, ReactJs and Flutter
+- 🌱 I’m currently learning NextJS, 
+- 💞️ I’m looking to collaborate on Projects on HTML, ReactJs
 - 📫 How to reach me email:shahzaib1638@gmail.com
 
 <!---
